@@ -1,0 +1,14 @@
+### 1. 基础部分
+- Android四大组件
+  - Activity
+    - 启动模式
+    - 生命周期
+    - onSaveInstanceState
+    - Activity启动流程
+  - Service
+    - 启动方式
+    - 与Activity的通信方式
+  - Broadcast
+    - 注册方式
+    - 广播的形式
+  - Content Provider
